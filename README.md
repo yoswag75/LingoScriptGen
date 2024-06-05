@@ -7,6 +7,6 @@ LingoScriptGen harnesses RAG and LLM technologies to effortlessly translate cont
 [Google Colab Code](https://colab.research.google.com/drive/1s1cVjPG7kr0BDiBhYTHaeimM8tDYTSQh)
 <br><br>
 ## Frontend File
-[Home Page - Page 1](home_page.html)<br>
-[Main Content (Script) - Page 2](script.html)<br>
+[Home Page - Page 1](home_page.html)<br><br>
+[Main Content (Script) - Page 2](script.html)<br><br>
 [Our Team - Page 3](our_team.html)
